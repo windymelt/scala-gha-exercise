@@ -1,7 +1,6 @@
 import scala.sys.process.Process
 
 val scala3Version = "3.3.1"
-val circeVersion = "0.14.1"
 
 lazy val root = project
   .in(file("."))
