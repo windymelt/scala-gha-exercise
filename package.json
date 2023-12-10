@@ -1,0 +1,16 @@
+{
+  "name": "scala-gha-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/windymelt/scala-gha-exercise.git",
+  "author": "Windymelt <windymelt@3qe.us>",
+  "license": "BSD3",
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.10.1",
+    "@actions/github": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
